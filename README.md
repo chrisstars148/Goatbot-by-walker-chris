@@ -1,8 +1,7 @@
 <img src="https://i.imgur.com/CkdCACV.jpeg" alt="banner">
 <h1 align="center"><img src="https://i.ibb.co/2sZGgK1/image.jpg" width="50px"> Goat Bot - Bot Chat Messenger</h1>
 
-src="https://imgur.com/zzd75g4" width="50px"> compte du bot
-a voir sur facebook </h1> 
+
 
 <p align="center">
 <h1 💬𝘔𝘦𝘵𝘰𝘶𝘴𝘩𝘦𝘭𝘢 𝘸𝘢𝘭𝘬𝘦𝘳>

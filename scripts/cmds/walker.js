@@ -3,8 +3,8 @@ const moment = require('moment-timezone');
 
 module.exports = {
   config: {
-    name: "ghostgc",
-    aliases: ["ghostgc"],
+    name: "walkergc",
+    aliases: ["gc"],
     version: "1.0",
     author: "AceGun",
     countDown: 5,
